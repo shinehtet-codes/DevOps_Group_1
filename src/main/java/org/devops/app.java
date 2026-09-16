@@ -1,6 +1,6 @@
 package org.devops;
 
-public class example {
+public class app {
 
 }
 
