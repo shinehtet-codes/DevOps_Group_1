@@ -1,6 +1,6 @@
 package org.devops;
 
-public class eg {
+public class Add {
 
     int i = 1;
 
